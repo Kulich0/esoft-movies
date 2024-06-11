@@ -1,0 +1,17 @@
+.container {
+    width: 350px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 15px auto ;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px
+  }
+.contentContainer{
+    text-align: center;
+
+  }
+.card-description {
+  text-align: justify;
+}

@@ -1,0 +1,8 @@
+.sidebar {
+    width: auto;
+    height: auto;
+    background-color: gray;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
